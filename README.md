@@ -1,1 +1,5 @@
-# flutter-meals-maxmillian
+# app_2
+
+A new Flutter project.
+
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
